@@ -1,5 +1,5 @@
 link, name, cost(cad), amount, purpose
-https://www.canadarobotix.com/products/2594, ESP32 Development Board (ESP-WROOM-32, ESP32-S with WiFi and Bluetooth), $12.99, 1, central processor
+https://www.canadarobotix.com/products/2594, ESP32 Development Board (ESP-WROOM-32 ESP32-S with WiFi and Bluetooth), $12.99, 1, central processor
 https://www.sparkfun.com/products/15335, SparkFun 9DoF IMU Breakout - ICM-20948 (Qwiic), $25.5, 1, IMU
 N/A, IR PCB, $20, 1, IR Ball detection
 N/A, Colour Sensor PCB, $20, 1, line detection
