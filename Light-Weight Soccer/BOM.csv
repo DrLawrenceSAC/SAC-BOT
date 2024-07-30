@@ -1,10 +1,13 @@
 link, name, cost(cad), amount, purpose
 https://www.canadarobotix.com/products/2594, ESP32 Development Board (ESP-WROOM-32 ESP32-S with WiFi and Bluetooth), $12.99, 1, central processor
 https://www.sparkfun.com/products/15335, SparkFun 9DoF IMU Breakout - ICM-20948 (Qwiic), $25.5, 1, IMU
-N/A, IR PCB, $20, 1, IR Ball detection
+N/A, IR PCB, $5-$10 (Depending on bulk pricing), 1, IR Ball detection
 N/A, Colour Sensor PCB, $20, 1, line detection
 https://www.amazon.ca/dp/B07JFF3TH9/ref=twister_B07JGX673P?_encoding=UTF8&th=1, 25GA-370 DC 12V Micro Gear Box Motor Speed Reduction Geared Motor for Electronic Lock(1000RPM), $16.28, 4, Motors
 N/A, Main PCB, $20, 1, Main PCB for mounting hardware
 N/A, Misc Hardware/3D prints/Wheel 3D prints, $20, 1, Misc
+https://www.amazon.ca/uxcell-Connector-Ribbon-Female-Length/dp/B07FKKP2TK/ref=sr_1_6?crid=3JZDOEI4LFH7X&dib=eyJ2IjoiMSJ9.nTTxVHIFcnqsIjAjFlxeoUYa9uZCgNH9rYMHbWTbdU9B-tzXJ1uDKsu3f-VQmDChqSlW_TNUd8q1qW5v_WnRGo9PIKHCRzuhPb1gPFO3ZrJgdOEy1fk7Ql-vgdi73hftuw8qUT4xGxPsq7gDgRxA30r2IhRTTuCKrrfKKw1fVYXsuEctrAOhVKg7i-G9hmnr5oaB4GI307o6RSgi7Gsi_tTbba4lpn32RiYmBdETWzJ6Es81Lj3hPv9bjzbOc3CVi1EhcTm0IdbnIBybKabsXc8-D3F4G2im-lLfnUqhk9k.fJMMWlRN3QUdyu23Qwu_OvGYPeiYEu-MlSIGaHyH4ZI&dib_tag=se&keywords=14+pin+idc+connector&qid=1721825383&s=electronics&sprefix=14+pin+idc+connector%2Celectronics%2C62&sr=1-6, uxcell IDC 14 Pins Connector Flat Ribbon Cable Female Connector Length 30cm 2.54mm Pitch 5pcs, $3.10, 1, Connector for IR PCB
+https://www.amazon.ca/uxcell-DC3-14P-2-54mm-Straight-Headers/dp/B00GYS13T4/ref=sr_1_6?crid=2EYVNLIEMYFE6&dib=eyJ2IjoiMSJ9.y3ZNzVaPK5CmPNAp-52BG4kO_B0SqoVBY1o_EJrs3cGd-7eeZevG8i6QATYcIBG8dsNVhnADijqOYuC2qZioYX9ZvZs2IvojSO2aB5emnagnvnAybo1W1XWLn280ZlmYcpYQYhtw4yIpSR2mKI9ax7GTXQ7RAbQ3LfCJlXMpKgmFt0McGzopZrE282a2iTljxN53HUvCL6ruub_BH-WOMir843_yhNRboiGVeVlg4aesd14JI-3LLfCmIoCDiYhKbThrozVMybAtNdaX_Y8A2A.ubJbjQ7wO-4a8ZCV5jtqEO9LLoJ-Vmmbdj6HV6bJmCA&dib_tag=se&keywords=uxcell+idc+connector+2x7&qid=1721825539&s=electronics&sprefix=uxcell+idc+connector+2x7%2Celectronics%2C56&sr=1-6, uxcell 15Pcs DC3-14P 2x7 Pins 2.54mm Pitch Straight Angle IDC Box Pin Headers, <$1, 1, Connector joint soldered onto the IR PCB
+
 
 
