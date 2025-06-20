@@ -4,6 +4,10 @@ Below are the parts required for the SAC-BOT rescue line robot. A source link to
 
 List is shared at (digikey.ca here)[https://www.digikey.ca/en/mylists/list/CZCZJ5AE1T].
 
+The above link includes several extra parts (jumper wires, bolts and nuts) that might also be needed.
+
+Not included! -> battery and battery holder we use a two-cell 8450 Lithium batter holder with a case. No sources from digikey, many on amazon and other providers.
+
 
 | Digi-Key Part Number | Manufacturer              | Manufacturer Part Number | Requested Part Number | Description                      | Customer Reference | Quantity | Unit Price | Extended Price |
 | -------------------- | ------------------------- | ------------------------ | --------------------- | -------------------------------- | ------------------ | -------- | ---------- | -------------- |
