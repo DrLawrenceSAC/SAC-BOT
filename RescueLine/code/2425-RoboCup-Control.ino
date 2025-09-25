@@ -14,9 +14,10 @@ void loop() {
   int midDark = analogRead(A1);
   int rightDark = analogRead(A2);
   
-  /// Turning on motors
+  /// Turning on motors, spin for a half second
   motorControl(255, -255);
-	
+  delay(500);
+  motorControl(0,0);
   // printing out to Serial from sensors
   Serial.println("Distance: "+String(distance)+" leftDark: " +String(leftDark)+" midDark: "+String(midDark)+" rightDark: "+String(rightDark));
   
