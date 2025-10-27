@@ -1,4 +1,4 @@
-# SAC-SCO
+# SAC-SOC
 
 A minimal robot based on the simple design of the SAC-BOT for soccer robot construction.
 
