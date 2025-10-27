@@ -32,9 +32,9 @@ void loop() {
   float distance = readDistance();
  
   // reading the sensors and saving their values in _Dark variables
-  int leftDark = analogRead(A0);
+  int leftDark = analogRead(A2);
   int midDark = analogRead(A1);
-  int rightDark = analogRead(A2);
+  int rightDark = analogRead(A0);
   
   // sensor testing to serial monitor
   // printing out to Serial from sensors
@@ -78,9 +78,9 @@ void motorControl(float leftSpeed, float rightSpeed) {
   // turning motors on
   digitalWrite(3, HIGH);
   // setting motor direction with boolean operators for HIGH/LOW ~ forward/back
-  digitalWrite(7, leftSpeed > 0);
-  digitalWrite(8, rightSpeed > 0);
+  digitalWrite(8, leftSpeed > 0);
+  digitalWrite(7, rightSpeed > 0);
   // finding the absolute value of motor speeds, then constraining to 0-255 and setting speed left/right
-  analogWrite(5, constrain(abs(leftSpeed), 0, 255));
-  analogWrite(6, constrain(abs(rightSpeed), 0, 255));
+  analogWrite(6, constrain(abs(leftSpeed), 0, 255));
+  analogWrite(5, constrain(abs(rightSpeed), 0, 255));
 }
